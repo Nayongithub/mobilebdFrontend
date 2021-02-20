@@ -1,0 +1,29 @@
+.theme-bg {
+  background-color: #001131;
+}
+.theme-bg-color {
+  color: #001131;
+}
+.theme-title {
+  color: #fda66d;
+}
+.image {
+  /* background-color: tomato; */
+  border: 2px solid #d1c6c6;
+  width: 180px;
+  height: 200px;
+  border-radius: 10px;
+}
+.uploadBtn {
+  background-color: #001131;
+  /* border: 2px solid black; */
+  width: 180px;
+  height: 30px;
+  border-radius: 3px;
+  text-align: center;
+  color: white;
+}
+
+.border-muted {
+  border: 1px solid #d1c6c6;
+}
